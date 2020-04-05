@@ -1,4 +1,4 @@
-"""Visualize the Midpoint integration method."""
+"""Visualize the Midpoint integratssion method."""
 
 import matplotlib.pyplot as plt
 import numpy as np
